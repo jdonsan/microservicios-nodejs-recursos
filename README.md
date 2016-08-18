@@ -48,8 +48,20 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 ## Herramientas
 ### Librerías
 ### Frameworks
+
+* [SenecaJS](http://senecajs.org/)
+
 ## Blogs
+
+* http://microservices.io/
+
 ## Tutoriales
+
+* [Microservicios: Qué son y ejemplos reales de uso](https://openwebinars.net/microservicios-que-son/)
+* [How To Do Microservices with Node.js](http://thenewstack.io/microservices-node-js/)
+* [Microservices with Weave, Docker and Node.js on Ubuntu](https://www.weave.works/guides/microservices-with-weave-docker-and-node-js-on-ubuntu/)
+* [Microservices stack in seconds: Node.js + Docker + NoSQL](https://www.joyent.com/blog/how-to-dockerize-a-complete-application)
+
 ### Seguridad
 ### Integración
 ### Migración
