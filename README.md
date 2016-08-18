@@ -18,7 +18,6 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
   * [Despliegue](#despliegue)
   * [Testing](#testing)
   * [Monitorización](#monitorización)
-  * [Trazabilidad](#trazabilidad)
 * [Cursos](#cursos)
 * [Cuentas de twitter](#cuentas-de-twitter)
 
@@ -55,6 +54,8 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 ### Frameworks
 
 * [SenecaJS](http://senecajs.org/)
+* [ClaudiaJS](https://claudiajs.com/)
+* [AquaJS](http://www.aquajsio.com/)
 * [ExpressJS](http://expressjs.com/)
 
 ## Blogs
@@ -71,6 +72,7 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 * [Microservices with Weave, Docker and Node.js on Ubuntu](https://www.weave.works/guides/microservices-with-weave-docker-and-node-js-on-ubuntu/)
 * [Microservices stack in seconds: Node.js + Docker + NoSQL](https://www.joyent.com/blog/how-to-dockerize-a-complete-application)
 * [Crea microservicios en Node.js con micro.js](https://platzi.com/blog/microservicios-en-node-con-micro/?utm_source=Twitter&utm_medium=Timeline&utm_campaign=20160816_PlatziBlog_ColoMicroservicesNodeMicroJS&utm_content=CTA_Blogpost)
+* [Best Practices for Building a Microservice Architecture](http://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture?utm_content=bufferc1f23&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ### DDD
 
@@ -88,7 +90,7 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 
 ### Migración
 
-* En construcción
+* [Monolithic Node.js](http://www.richardrodger.com/monolithic-nodejs#.V7YBcZgqrIU)
 
 ### Despliegue
 
@@ -100,11 +102,9 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 
 ### Monitorización
 
-* En construcción
-
-### Trazabilidad
-
-* En construcción
+* [3 Node.js Libraries Which Make Sophisticated Logging Simpler](https://www.loggly.com/blog/three-node-js-libraries-which-make-sophisticated-logging-simplers/)
+* [How to Get Node.js Logging Right](https://blog.risingstack.com/node-js-logging-tutorial/)
+* [Tools and Techniques for Logging Microservices](https://www.loggly.com/blog/tools-and-techniques-for-logging-microservices/)
 
 ## Cursos
 
@@ -113,4 +113,5 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 
 ## Cuentas de twitter
 
-* En construcción
+* [Sam Newman](https://twitter.com/samnewman)
+* [Martin Fowler](https://twitter.com/martinfowler)
