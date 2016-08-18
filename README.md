@@ -1,6 +1,6 @@
 # Recursos para aprender microservicios con NodeJS
 
-Este repositorio es un recopilatorio de recursos que he ido encontrando en Internet sobre microservicios sobre NodeJS. Si alguien estuviese interesado en hacer sus aportaciones puede hacer un Pull Request o escribirme en mi tuit @jdonsan.
+Este repositorio es un recopilatorio de recursos que he ido encontrando en Internet sobre microservicios sobre NodeJS. Si alguien estuviese interesado en hacer sus aportaciones puede hacer un Pull Request o escribirme en mi tuit [@jdonsan](https://twitter.com/jdonsan).
 
 ## Indice 
 
