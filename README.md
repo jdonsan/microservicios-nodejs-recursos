@@ -50,11 +50,12 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 ## Herramientas
 ### Librerías
 
-* En construcción
+* [Micro](https://github.com/zeit/micro)
 
 ### Frameworks
 
 * [SenecaJS](http://senecajs.org/)
+* [ExpressJS](http://expressjs.com/)
 
 ## Blogs
 
@@ -69,6 +70,7 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 * [How To Do Microservices with Node.js](http://thenewstack.io/microservices-node-js/)
 * [Microservices with Weave, Docker and Node.js on Ubuntu](https://www.weave.works/guides/microservices-with-weave-docker-and-node-js-on-ubuntu/)
 * [Microservices stack in seconds: Node.js + Docker + NoSQL](https://www.joyent.com/blog/how-to-dockerize-a-complete-application)
+* [Crea microservicios en Node.js con micro.js](https://platzi.com/blog/microservicios-en-node-con-micro/?utm_source=Twitter&utm_medium=Timeline&utm_campaign=20160816_PlatziBlog_ColoMicroservicesNodeMicroJS&utm_content=CTA_Blogpost)
 
 ### DDD
 
