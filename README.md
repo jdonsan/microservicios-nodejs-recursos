@@ -65,7 +65,6 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 ## Tutoriales
 
 * [Microservicios: Qué son y ejemplos reales de uso](https://openwebinars.net/microservicios-que-son/)
-* [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/?utm_source=building-microservices-using-an-api-gateway&utm_medium=blog)
 * [An Introduction to Microservices, Part 1](https://auth0.com/blog/an-introduction-to-microservices-part-1/)
 * [API Gateway. An Introduction to Microservices, Part 2](https://auth0.com/blog/an-introduction-to-microservices-part-2-API-gateway/)
 * [How To Do Microservices with Node.js](http://thenewstack.io/microservices-node-js/)
@@ -86,7 +85,8 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 
 ### Integración
 
-* En construcción
+* [An Introduction to Microservices, Part 3: The Service Registry](https://auth0.com/blog/an-introduction-to-microservices-part-3-the-service-registry/)
+* [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
 
 ### Migración
 
@@ -94,7 +94,8 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 
 ### Despliegue
 
-* En construcción
+* [Microservice Delivery using Jenkins and Docker](https://www.credera.com/blog/technology-insights/open-source-technology-insights/microservice-delivery-using-jenkins-and-docker/)
+* [MicroServices From Development To Production Using Docker, Docker Compose & Docker Swarm](https://medium.com/@eon01/microservices-from-development-to-production-using-docker-docker-compose-docker-swarm-3cf37f97706b#.iiec7n3ho)
 
 ### Testing
 
@@ -109,7 +110,8 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 ## Cursos
 
 * [Microservices Architecture by Rag Dhiman](https://www.pluralsight.com/courses/microservices-architecture)
-* [Scalable Microservices with Kubernetes - Udacity](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+* [Scalable Microservices with Kubernetes by Udacity](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+* [Introduction to Microservices by Nginx](https://www.nginx.com/blog/introduction-to-microservices/?utm_source=building-microservices-using-an-api-gateway&utm_medium=blog)
 
 ## Cuentas de twitter
 
