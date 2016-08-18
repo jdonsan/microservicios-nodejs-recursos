@@ -11,12 +11,14 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
   * [Frameworks](#frameworks)
 * [Blogs](#blogs)
 * [Tutoriales](#tutoriales)
+  * [DDD](#ddd) 
   * [Seguridad](#seguridad)
   * [Integración](#integración)
   * [Migración](#migración)
   * [Despliegue](#despliegue)
   * [Testing](#testing)
   * [Monitorización](#monitorización)
+  * [Trazabilidad](#trazabilidad)
 * [Cursos](#cursos)
 * [Cuentas de twitter](#cuentas-de-twitter)
 
@@ -47,6 +49,9 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 
 ## Herramientas
 ### Librerías
+
+* En construcción
+
 ### Frameworks
 
 * [SenecaJS](http://senecajs.org/)
@@ -58,15 +63,52 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 ## Tutoriales
 
 * [Microservicios: Qué son y ejemplos reales de uso](https://openwebinars.net/microservicios-que-son/)
+* [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/?utm_source=building-microservices-using-an-api-gateway&utm_medium=blog)
+* [An Introduction to Microservices, Part 1](https://auth0.com/blog/an-introduction-to-microservices-part-1/)
+* [API Gateway. An Introduction to Microservices, Part 2](https://auth0.com/blog/an-introduction-to-microservices-part-2-API-gateway/)
 * [How To Do Microservices with Node.js](http://thenewstack.io/microservices-node-js/)
 * [Microservices with Weave, Docker and Node.js on Ubuntu](https://www.weave.works/guides/microservices-with-weave-docker-and-node-js-on-ubuntu/)
 * [Microservices stack in seconds: Node.js + Docker + NoSQL](https://www.joyent.com/blog/how-to-dockerize-a-complete-application)
 
+### DDD
+
+* En construcción
+
 ### Seguridad
+
+* [API Gateway](http://microservices.io/patterns/apigateway.html)
+* [Sharing micro-service authentication using Nginx, Passport and Redis](https://dejanglozic.com/2014/10/07/sharing-micro-service-authentication-using-nginx-passport-and-redis/)
+* [How To Control User Identity Within Microservices](http://nordicapis.com/how-to-control-user-identity-within-microservices/)
+
 ### Integración
+
+* En construcción
+
 ### Migración
+
+* En construcción
+
 ### Despliegue
+
+* En construcción
+
 ### Testing
+
+* En construcción
+
 ### Monitorización
+
+* En construcción
+
+### Trazabilidad
+
+* En construcción
+
 ## Cursos
+
+* [Microservices Architecture by Rag Dhiman](https://www.pluralsight.com/courses/microservices-architecture)
+* [Scalable Microservices with Kubernetes - Udacity](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+
 ## Cuentas de twitter
+
+* En construcción
