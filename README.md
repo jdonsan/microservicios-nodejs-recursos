@@ -41,7 +41,7 @@ Este repositorio es un recopilatorio de recursos que he ido encontrando en Inter
 * [GOTO 2014 - Microservices - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA)
 * [GOTO 2015 - Challenges in Implementing MicroServices - Fred George](https://www.youtube.com/watch?v=yPf5MfOZPY0)
 * [GOTO 2015 - Microservices at Spotify - Kevin Goldsmith](https://www.youtube.com/watch?v=7LGPeBgNFuU)
-* [Node js microservices](https://www.youtube.com/watch?v=vjlyfH4bop0&list=PLQ5x0FLYmQONgsWZ_c4CViq48bm_jB48R)
+* [Node js microservices](https://www.youtube.com/watch?v=vjlyfH4bop0&list=PLQ5x0FLYmQONgsWZ_c4CViq48bm_jB48R) video no disponible
 * [Building simple Node.js microservices using Hapi and Redis](https://www.youtube.com/watch?v=kQQGFvnMdbw)
 * [Microservice Developer Experience](https://www.youtube.com/watch?v=jm75pxsb80c)
 * [Principles Of Microservices by Sam Newman](https://www.youtube.com/watch?v=PFQnNFe27kU)
